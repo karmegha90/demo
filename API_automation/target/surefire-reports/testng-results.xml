@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[https://reqres.in/]]>
+    </line>
+  </reporter-output>
+  <suite name="API.API_automation.AppTest" duration-ms="937" started-at="2021-04-28T12:58:33 IST" finished-at="2021-04-28T12:58:34 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="937" started-at="2021-04-28T12:58:33 IST" finished-at="2021-04-28T12:58:34 IST">
+      <class name="API.API_automation.AppTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:API.API_automation.AppTest@cb644e]" name="test" duration-ms="864" started-at="2021-04-28T12:58:33 IST" finished-at="2021-04-28T12:58:34 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[https://reqres.in/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- API.API_automation.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- API.API_automation.AppTest -->
+</testng-results>
